@@ -1,0 +1,51 @@
+export const categories = [
+     {
+          id: 1,
+          img: "https://static.freshtohome.com/images/mobile/home/categories/new-ui/seafood.png",
+          title: "Marine Fish, Freshwater Fish, Shellfish",
+          tag: "Fish Seafood",
+          category: "Fish_Seafood",
+     },
+     {
+          id: 2,
+          img: "https://static.freshtohome.com/images/mobile/home/categories/new-ui/chicken.png",
+          title: "Chicken, Duck, Quail and more.",
+          tag: "Poultry",
+          category: "poultry",
+     },
+     {
+          id: 3,
+          img: "https://static.freshtohome.com/images/mobile/home/categories/new-ui/mutton.png",
+          title: "Premium Meats. Tender and low fat.",
+          category: "mutton",
+          tag: "Mutton - Goat & Lamb",
+     },
+     {
+          id: 4,
+          img: "https://static.freshtohome.com/images/mobile/home/categories/new-ui/rtc.png",
+          title: "Samosas, Cutlets, Sausages, Patties, Curries and much more.",
+          category: "ready_to_Cook",
+          tag: "Ready to Cook",
+     },
+     {
+          id: 5,
+          img: "https://static.freshtohome.com/images/mobile/home/categories/new-ui/combo.png",
+          title: "Pick your favourite combos.",
+          category: "combo",
+          tag: "Combo Packs",
+     },
+     {
+          id: 6,
+          img: "https://static.freshtohome.com/images/mobile/home/categories/new-ui/fillet.png",
+          title: "Fresh Steaks and Fillets.",
+          category: "steaks",
+          tag: "Steaks & Fillets",
+     },
+     {
+          id: 7,
+          img: "https://static.freshtohome.com/images/mobile/home/categories/new-ui/batter.png",
+          title: "Cut Vegetables & Batter.",
+          category: "vegetarian",
+          tag: "Vegetarian Products",
+     },
+];

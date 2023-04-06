@@ -1,0 +1,10 @@
+.active {
+     text-decoration: none;
+     color: #7755a2;
+     border-bottom: 3px solid black;
+}
+
+.default {
+     text-decoration: none;
+     color: #7755a2;
+}

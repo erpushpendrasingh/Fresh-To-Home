@@ -1,0 +1,5 @@
+.span {
+     border: 1px solid red;
+     padding: 5px;
+     background-image: linear-gradient(90deg, rgb(244, 182, 77) 0px, rgb(247, 41, 115) 99.77%);
+}

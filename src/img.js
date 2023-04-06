@@ -1,0 +1,15 @@
+export const images = [
+     "https://cdn.freshtohome.com/media/banner/1f66e889814a9691.jpg",
+     "https://cdn.freshtohome.com/media/banner/c8ef3c3ae0f9ce59.jpg",
+     "https://cdn.freshtohome.com/media/banner/f9ca159f3836d94b.jpg",
+     "https://cdn.freshtohome.com/media/banner/08d964c293ab2e2f.jpg",
+     "https://cdn.freshtohome.com/media/banner/b48f06ed7d5a0cbf.jpeg",
+     "https://cdn.freshtohome.com/media/banner/79c3a3ca8a059b4d.jpg",
+     "https://cdn.freshtohome.com/media/banner/f26a520330c8c840.jpg",
+     "https://cdn.freshtohome.com/media/banner/a622b629119f6cba.jpg",
+     "https://cdn.freshtohome.com/media/banner/1f66e889814a9691.jpg",
+     "https://cdn.freshtohome.com/media/banner/ee8317bdc73985d1.gi",
+     "https://cdn.freshtohome.com/media/banner/496d300c64559339.jpg",
+     "https://cdn.freshtohome.com/media/banner/87868067fe50163a.jpg",
+     "https://cdn.freshtohome.com/media/banner/069ef5a44deadf55.jpg",
+];
